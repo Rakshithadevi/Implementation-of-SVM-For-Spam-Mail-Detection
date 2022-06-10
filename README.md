@@ -45,10 +45,24 @@ accuracy
 
 ## Output:
 ## Data Head:
+![image](https://user-images.githubusercontent.com/94165326/173095503-0b0e3fa1-b2a7-482b-b950-bc1e86f9aa82.png)
+
+
 ## Data Info:
+![image](https://user-images.githubusercontent.com/94165326/173095546-c57eacdf-781b-4016-8c44-57e81ceb3c16.png)
+
+
 ## Data isnull():
+![image](https://user-images.githubusercontent.com/94165326/173095639-9dc858dd-6567-43b5-811f-d9536cdc67f0.png)
+
+
 ## y_pred:
+![image](https://user-images.githubusercontent.com/94165326/173095689-ce42426f-57c2-48ee-9541-bc6eb5622e81.png)
+
+
 ## Accuracy:
+![image](https://user-images.githubusercontent.com/94165326/173095753-d9e9bb74-d85e-4373-9198-6cd36c476d02.png)
+
 
 
 ## Result:
